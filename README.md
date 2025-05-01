@@ -49,16 +49,6 @@ npm run dev
 
 - 📘 Dedicated documentation site
 
-## 📁 Project Structure
-
-/
-├── pulic/        # Static assets
-├── src/        # Source Folder
-    ├── app/
-    ├── components/        # Reusable UI components
-    ├── services/           # API management
-    ├── store/            # Zustand state management
-
 ## 🤝 Contributing
 
 Feel free to open issues or submit pull requests to improve the project!
