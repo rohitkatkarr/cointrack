@@ -2,7 +2,7 @@
 
 A sleek and modern cryptocurrency price tracker built with **Next.js**, **TypeScript**, **Tailwind CSS**, **Zustand**, and the **CoinGecko API**.
 
-![CryptoTracker Screenshot](../../crypto-tracker/crypto-tracker/public/screenshot.png)
+![CryptoTracker Screenshot](../public/screenshot.png)
 
 ---
 
