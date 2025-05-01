@@ -2,7 +2,7 @@
 
 A sleek and modern cryptocurrency price tracker built with **Next.js**, **TypeScript**, **Tailwind CSS**, **Zustand**, and the **CoinGecko API**.
 
-![CryptoTracker Screenshot](../../crypto-tracker/crypto-tracker/public/screenshot.png)
+![CryptoTracker Screenshot](./public/screenshot.png)
 
 ---
 
@@ -27,7 +27,6 @@ Coming soon! _(Or add your deployment link here)_
 ```bash
 # Clone the repository
 git clone https://github.com/rohitkatkarr/cointrack.git
-cd web-app
 
 # Install dependencies
 npm install
@@ -49,16 +48,6 @@ npm run dev
 - 📊 Clean and responsive UI with Tailwind
 
 - 📘 Dedicated documentation site
-
-## 📁 Project Structure
-
-/
-├── pulic/        # Static assets
-├── src/        # Source Folder
-    ├── app/
-    ├── components/        # Reusable UI components
-    ├── services/           # API management
-    ├── store/            # Zustand state management
 
 ## 🤝 Contributing
 
