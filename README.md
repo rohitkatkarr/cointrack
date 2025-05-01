@@ -8,7 +8,7 @@ A sleek and modern cryptocurrency price tracker built with **Next.js**, **TypeSc
 
 ## 🌐 Live Demo
 
-Coming soon! _(Or add your deployment link here)_
+https://cointrack-oyexph7gs-rohit-katkars-projects.vercel.app/
 
 ---
 
