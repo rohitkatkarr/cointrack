@@ -27,7 +27,6 @@ Coming soon! _(Or add your deployment link here)_
 ```bash
 # Clone the repository
 git clone https://github.com/rohitkatkarr/cointrack.git
-cd web-app
 
 # Install dependencies
 npm install
